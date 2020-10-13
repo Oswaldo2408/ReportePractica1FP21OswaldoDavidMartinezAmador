@@ -1,0 +1,2 @@
+# ReportePractica1FP21OswaldoDavidMartinezAmador
+Práctica 1 de fundamentos de Programación
